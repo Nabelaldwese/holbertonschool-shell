@@ -8,3 +8,4 @@ Project: basics
 - 14-copy_html: copies *.html to parent only if missing or older (cp -u)
 - 15-lets_move: moves all files starting with an uppercase letter to /tmp/u
 - 16-clean_emacs: deletes all files in the current directory ending with ~
+- 17-tree: creates welcome/, welcome/to/, and welcome/to/school using brace expansion
