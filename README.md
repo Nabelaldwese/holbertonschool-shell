@@ -1,1 +1,1 @@
-i
+Shell basics repository
