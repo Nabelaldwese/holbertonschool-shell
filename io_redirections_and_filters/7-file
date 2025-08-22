@@ -1,3 +1,2 @@
 #!/bin/bash
-# create the weirdly-named file with the required content
-printf "Best School\n" > "\\*\\'\"Best School\"\\'\\*$\\?\\*\\*\\*\\*\\*:)"
+echo "Best School" > \\\\\\\"'\"Best School\"\\'"\\\\\\$\\\?\\\\\\\\\\\\\\\*\:\)
