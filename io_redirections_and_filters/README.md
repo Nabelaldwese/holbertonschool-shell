@@ -1,6 +1,6 @@
 # I/O Redirections and Filters
 
-This directory contains solutions for tasks related to shell redirections and filters in the **Holberton School Shell project**.
+This directory contains solutions for tasks related to shell I/O redirections and filters in the **Holberton School Shell project**.
 
 ---
 
@@ -8,3 +8,5 @@ This directory contains solutions for tasks related to shell redirections and fi
 
 **Requirement:**  
 Write a shell script that creates a file named exactly:
+
+
